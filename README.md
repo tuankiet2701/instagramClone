@@ -15,5 +15,5 @@
 - Make Firestore Rules
 - Take Web FirebaseOptions and put it in main function in main.dart file replacing my keys (My keys wont work as I deleted my project) Then run the following commands to run your app:
 
-  flutter pub get
-  flutter run
+  - flutter pub get
+  - flutter run
