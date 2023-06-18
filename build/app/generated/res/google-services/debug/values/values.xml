@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">649363320050-ndqljqef4inoo2iek1e4fonrrj37kde2.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">649363320050</string>
+    <string name="google_api_key" translatable="false">AIzaSyAfC1pKOe3N17Gpvg3AveeTshzX_KUpaBE</string>
+    <string name="google_app_id" translatable="false">1:649363320050:android:89c6e7ba4e9f688911346b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAfC1pKOe3N17Gpvg3AveeTshzX_KUpaBE</string>
+    <string name="google_storage_bucket" translatable="false">instagram-clone-a81fc.appspot.com</string>
+    <string name="project_id" translatable="false">instagram-clone-a81fc</string>
+</resources>
